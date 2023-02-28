@@ -4,7 +4,11 @@
 ```
 const contacto = {email : "rominamb9579@gmail.com"}
 ```
-
+## 📂 Proyectos:
+- <a href="https://pawcare.vercel.app/" target="_blank">**PawCare**</a> -
+**React - Redux - Bootstrap - NodeJS - Express - Sequelize - PostgresSQL**
+- <a href="https://pi-videogames-main-kappa.vercel.app/" target="_blank">**GameLand**</a> -
+**React - Redux - NodeJS - Express - Sequelize - PostgresSQL**
 
 ## 🌐 Redes Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rominamb#8202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/romina-molina-bravo/) 
