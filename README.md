@@ -25,6 +25,5 @@ const contacto = {email : "rominamb9579@gmail.com"}
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rominamb&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rominamb&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rominamb&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
