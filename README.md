@@ -1,6 +1,4 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/2335/2335114.png" width="36" height="36" /> Sobre mí:
-<hr></hr>
-<table>
 <div valign="left"> <tr><td valign="top" width="50%">
 
 _Hola! Mi nombre es Romina Molina Bravo, soy de Córdoba, Argentina._
@@ -21,7 +19,7 @@ _Hola! Mi nombre es Romina Molina Bravo, soy de Córdoba, Argentina._
 ](https://twitter.com/_rominamb)
 <br/>
 
-</td></tr></table>
+</td></tr>
 <div align="left">
 
 ✎ Constantemente busco la oportunidad de integrar nuevas tecnologías en mis proyectos, esforzándome por mantenerme al día con las últimas tendencias y desarrollos en el campo de la programación.
@@ -35,7 +33,6 @@ const contacto = {email : "rominamb9579@gmail.com"}
 </div>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3146/3146222.png" width="40" height="40" /> Proyectos:
-<hr></hr>
 
 ✎ <a href="https://pawcare.vercel.app/" target="_blank">**PawCare:**</a>
 Aplicación web para servicio de cuidado de mascotas, utilizando la metodología Scrum.
@@ -48,7 +45,6 @@ Permite al usuario encontrar información sobre 900+ videojuegos de 50 plataform
 **Tecnologías utilizadas:** Javascript, React, Redux, Express, Node.js, Sequelize, PostgresSQL, HTML, CSS. 
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/689/689355.png" width="40" height="40" /> Tech Stack:
-<hr></hr>
 <table><tr><td valign="top" width="50%">
 
 ## Frontend
@@ -78,7 +74,6 @@ Permite al usuario encontrar información sobre 900+ videojuegos de 50 plataform
 </td></tr></table>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/4064/4064965.png" width="40" height="40" /> GitHub Stats:
-<hr></hr>
 
 ![](https://github-readme-stats.vercel.app/api?username=rominamb&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)
 
