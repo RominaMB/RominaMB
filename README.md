@@ -31,7 +31,7 @@ const contacto = {email : "rominamb9579@gmail.com"}
 <br/>
 
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3146/3146222.png" width="40" height="40" /> Proyectos:
+## <img src="https://cdn-icons-png.flaticon.com/512/3146/3146222.png" width="40" height="40" /> Mis Proyectos:
 
 ✎ <a href="https://pawcare.vercel.app/" target="_blank">**PawCare:**</a>
 Aplicación web para servicio de cuidado de mascotas, utilizando la metodología Scrum.
