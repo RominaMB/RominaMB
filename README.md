@@ -8,17 +8,6 @@ _Hola! Mi nombre es Romina Molina Bravo, soy de Córdoba, Argentina._
 <div valign="left"> 
 </td><td valign="top" width="50%">
 </div>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2327/2327640.png" width="40" height="40" /> Redes Sociales:
-<hr></hr>
-
-[<img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="50" height="50">
-](https://discord.gg/rominamb#8202)[<img src="https://cdn-icons-png.flaticon.com/512/3670/3670129.png" width="50" height="50">
-](https://www.linkedin.com/in/romina-molina-bravo
-)[<img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" width="50" height="50">
-](https://twitter.com/_rominamb)
-<br/>
-
 </td></tr>
 <div align="left">
 
@@ -31,6 +20,16 @@ Si consideras que mi perfil se ajusta a tu búsqueda no dudes en contactarme:
 const contacto = {email : "rominamb9579@gmail.com"}
 ```
 </div>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/2327/2327640.png" width="40" height="40" /> Redes Sociales:
+
+[<img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="50" height="50">
+](https://discord.gg/rominamb#8202)[<img src="https://cdn-icons-png.flaticon.com/512/3670/3670129.png" width="50" height="50">
+](https://www.linkedin.com/in/romina-molina-bravo
+)[<img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" width="50" height="50">
+](https://twitter.com/_rominamb)
+<br/>
+
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3146/3146222.png" width="40" height="40" /> Proyectos:
 
