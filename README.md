@@ -35,7 +35,7 @@ const contacto = {email : "rominamb9579@gmail.com"}
 
 ✎ <a href="https://pawcare.vercel.app/" target="_blank">**PawCare:**</a>
 Aplicación web para servicio de cuidado de mascotas, utilizando la metodología Scrum.
-**Tecnologías utilizadas:** JavaScript, React, Redux, NodeJS, Express, PostgreSQL, Bootstrap, Auth0, Mercado Pago, Cloudinary, Google Login, junto con otras librerias y frameworks.
+**Tecnologías utilizadas:** JavaScript, React, Redux, NodeJS, Express, PostgreSQL, Bootstrap, Auth0, Mercado Pago, Cloudinary, Google Login, junto con otras librerias y frameworks. Seleccionado entre los 3 mejores proyectos de la cohorte del Henry Bootcamp.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominamb&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
