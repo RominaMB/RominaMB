@@ -41,7 +41,7 @@ Aplicación web para servicio de cuidado de mascotas, utilizando la metodología
 
 ✎ <a href="https://pi-videogames-main-kappa.vercel.app/" target="_blank">**GameLand:**</a> Single Page App.
 Permite al usuario encontrar información sobre 900+ videojuegos de 50 plataformas, incluyendo móviles, totalmente ilustrativos y extraídos de "RAWG Video Games" API.
-**Tecnologías utilizadas:** Javascript, React, Redux, Express, Node.js, Sequelize, PostgresSQL, HTML, CSS. 
+**Tecnologías utilizadas:** Javascript, React, Redux, Express, Node.js, Sequelize, PostgreSQL, HTML, CSS. 
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/689/689355.png" width="40" height="40" /> Tech Stack:
 
