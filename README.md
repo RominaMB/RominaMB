@@ -72,7 +72,6 @@ Permite al usuario encontrar información sobre 900+ videojuegos de 50 plataform
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a><a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="50" /></a> <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/office/256/express-js.png" alt="Express.js" height="50" /></a> <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a> <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Phyton" height="50" /></a>  <a href="https://www.java.com/es/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="50" /></a>
 </td></tr></table>
 
-
 ## <img src="https://cdn-icons-png.flaticon.com/512/4064/4064965.png" width="40" height="40" /> GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=rominamb&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)
