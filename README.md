@@ -3,7 +3,7 @@
 
 _Hola! Mi nombre es Romina Molina Bravo, soy de Córdoba, Argentina._
 
-✎ Actualmente cuento con más de 800 horas de práctica en _Desarrollo Web Full Stack_, teniendo la oportunidad de trabajar con tecnologías como: JavaScript · Node.js · React.js · Express.js · PostgreSQL · Redux.js · Sequelize.js · HTML · CSS · Java · Phyton.
+✎ Actualmente cuento con más de 800 horas de práctica en _Desarrollo Web Full Stack_, teniendo la oportunidad de trabajar con tecnologías como: JavaScript · Node.js · React.js · Express.js · PostgreSQL · Redux.js · Sequelize.js · HTML · CSS · Java · Python.
 </div>
 <div valign="left"> 
 </td><td valign="top" width="50%">
